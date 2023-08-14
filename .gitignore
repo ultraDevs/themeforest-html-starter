@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 
 .sass-cache
+
+
+assets/css/*.map
