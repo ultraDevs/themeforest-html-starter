@@ -1,0 +1,70 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #fff;
+	color: #000;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+	line-height: auto;
+}
+
+h1 {
+	font-size: 85px;
+	font-weight: 500;
+}
+
+h2 {
+	font-size: 45px;
+	font-weight: 500;
+}
+
+h3 {
+	font-size: 24px;
+	line-height: 35px;
+	font-weight: 400;
+}
+
+h4 {
+	font-size: 20px;
+	line-height: 30px;
+	font-weight: 400;
+}
+
+h5 {
+	font-size: 18px;
+	line-height: 28px;
+	font-weight: 400;
+}
+
+h6 {
+	font-size: 16px;
+	line-height: 30px;
+	font-weight: 400;
+	color: $primary-color;
+}
+
+p {
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 400;
+}
