@@ -9,6 +9,7 @@ This is a starter kit for creating HTML templates for Themeforest. It includes a
 1. Node.js
 2. Grunt CLI
 3. BrowserSync
+4. Ruby and Sass
 
 ## Getting Started
 
