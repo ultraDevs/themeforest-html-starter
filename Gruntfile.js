@@ -14,7 +14,10 @@ module.exports = function (grunt) {
 
 			options: {
 				watchTask: true,
-
+				// ui: {
+				// 	port: 3005,
+				// },
+				port: 3005,
 				server: {
 					baseDir: "./",
 				},
